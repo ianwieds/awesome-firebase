@@ -4,13 +4,13 @@ Thanks for helping keep this list useful. Please read these rules before you ope
 
 ## What belongs here
 
-Replace this paragraph with the list's scope: what it covers, and which nearby projects belong only when the topic is central to what they do.
+This list covers Firebase: the official SDKs, docs and samples, and the community libraries, tools, extensions, guides and talks built around them. A general web or mobile project that only happens to use Firebase belongs here only if Firebase is central to what it shows or does.
 
 An entry must be:
 
 - **Public:** a repository or page anyone can open without signing in.
 - **Documented:** a README or docs page that explains what it does and how to use it.
-- **Maintained:** for a repository, <!-- awesome:inactive -->not archived and not marked deprecated by its owner<!-- /awesome:inactive -->.
+- **Maintained:** for a repository, <!-- awesome:inactive -->not archived and not marked deprecated by its owner<!-- /awesome:inactive -->. It must not be built on a Firebase product that has been shut down.
 - **Established:** a GitHub project has <!-- awesome:stars -->at least 10 stars<!-- /awesome:stars --> when it is submitted.
 - **Working:** every link resolves.
 

@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
+  "topic": "Firebase",
+  "repo": "ianwieds/awesome-firebase",
+  "tagline": "A curated list of Firebase SDKs, libraries, tools, extensions, guides and talks.",
+  "scope": "It is about Firebase, not just a project that happens to use it.",
   "accent": "FFA000",
   "minStars": 10,
   "maxInactiveMonths": 0,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: a flame core on a hearth sends light pulses along wires to a database, a cloud, a function and a lock."
 }

@@ -321,10 +321,10 @@
 - [Juarez Filho](https://twitter.com/juarezpaf) - Author of the Firebase Adventures workshop.
 - [Mike McDonald](https://twitter.com/asciimike) - Former Firebase product manager.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->

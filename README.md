@@ -190,7 +190,7 @@
 
 - [AngularFire](https://github.com/angular/angularfire) - The official Angular library for Firebase.
 - [Firestorter](https://github.com/IjzerenHein/firestorter) - MobX-backed Firestore bindings for React and React Native.
-- [Omega](https://github.com/Omega-JS-Stack/omega) - Framework that builds a site, Firebase backend, desktop app and browser extension.
+- [Omega](https://github.com/omegajs-dev/omega) - Framework that builds a site, Firebase backend, desktop app and browser extension.
 - [Re-base](https://github.com/tylermcginnis/re-base) - Syncs React component state with Firebase data.
 - [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) - React hooks for Auth, Firestore, Realtime Database, Storage and more.
 - [React Redux Firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings and React helpers that keep Firebase data in the store.
